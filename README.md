@@ -17,7 +17,7 @@ Login (/login)
 Edit links (/admin) - Rota protegida
 ![Web 3](https://i.ibb.co/x8Df9cQb/Screenshot-from-2025-08-03-21-20-30.png)
 
-Edit social media links (/admin/links) - Rota protegida
+Edit social media links (/admin/social) - Rota protegida
 ![Web 4](https://i.ibb.co/wFBSwMnt/Screenshot-from-2025-08-03-21-16-23.png)
 
 # Tecnologias utilizadas
