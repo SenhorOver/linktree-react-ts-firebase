@@ -29,11 +29,7 @@ Edit social media links (/admin/social) - Rota protegida
 - ReactJS
 - React-router
 - TailwindCSS
-- React-hot-toast
-- Swiper
-- Uuid
-- React-hook-form
-- Zod
+  
 ## Implantação em produção
 - Back end: Firebase
 - Front end web: Vercel
