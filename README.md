@@ -1,4 +1,4 @@
-# Big Game Survey 
+# Linktree
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/SenhorOver/linktree-react-ts-firebase/blob/master/LICENSE) 
 
 # Sobre o projeto
