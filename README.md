@@ -38,6 +38,9 @@ Edit social media links (/admin/social) - Rota protegida
 # Como executar o projeto
 
 ## Front end web
+
+IMPORTANTE: Não será possível acessar o Backend Firebase, caso queira ver a aplicação funcionando, é possível acessar via web: [link](https://linktree-react-ts-firebase.vercel.app)
+
 Pré-requisitos: npm / yarn
 
 ```bash
